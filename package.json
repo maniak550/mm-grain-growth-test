@@ -3,9 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "ajv": "^6.5.4",
+    "grommet": "^2.0.0-rc",
+    "grommet-icons": "^3.1.0",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
-    "react-scripts": "2.0.5"
+    "react-radial-menu": "^0.1.0",
+    "react-scripts": "2.0.5",
+    "styled-components": "^4.0.2"
   },
   "scripts": {
     "start": "react-scripts start",
